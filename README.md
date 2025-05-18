@@ -10,10 +10,10 @@ Bài toán nhận diện tiếng nói tự động (ASR) cho tiếng Việt nh�
 
 | Thành viên       | MSSV       | Nhiệm vụ thực hiện                            |
 |------------------|-------------|----------------------------------------------|
-| Lê Thế Kỳ        | 20240837E   | Xử lý dữ liệu, tiền xử lý âm thanh           |
-| Đỗ Đức Chiến     | 20240830E   | Huấn luyện mô hình, tối ưu hóa               |
-| Tô Ánh Dương     | 20240822e   | Viết script đánh giá và tính WER             |
-| Lưu Đăng Tuấn    | 20200557    | Trình bày slide báo cáo, viết README         |
+| Lê Thế Kỳ        |  20240837E  | Xử lý dữ liệu, nghiên cứu phát triển         |
+| Lưu Đăng Tuấn    |  20200557   | Huấn luyện mô hình, tối ưu hóa               |
+|  Đỗ Đức Chiến    |  20240830E  | Viết script đánh giá và tính WER             |
+| Tô Ánh Dương     |  20240822e  | Trình bày slide báo cáo, viết README         |
 
 ---
 
