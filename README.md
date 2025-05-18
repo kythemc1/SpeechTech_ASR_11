@@ -13,13 +13,13 @@ Bài toán nhận diện tiếng nói tự động (ASR) cho tiếng Việt nh�
 | Lê Thế Kỳ        |  20240837E  | Xử lý dữ liệu, nghiên cứu phát triển         |
 | Lưu Đăng Tuấn    |  20200557   | Huấn luyện mô hình, tối ưu hóa               |
 |  Đỗ Đức Chiến    |  20240830E  | Viết script đánh giá và tính WER             |
-| Tô Ánh Dương     |  20240822e  | Trình bày slide báo cáo, viết README         |
+| Tô Thái Dương     |  20240822e  | Trình bày slide báo cáo, viết README         |
 
 ---
 
 ## 🧠 Mô hình sử dụng
 
-- ✅ Mô hình nền tảng: `Whiper` (Fine-tuned cho tiếng Việt)
+- ✅ Mô hình nền tảng: `Whisper` (Fine-tuned cho tiếng Việt)
 - ✅ Thư viện: `torchaudio`, `transformers`, `pyctcdecode`,...
 - ✅ Tăng cường dữ liệu: Thêm nhiễu nền, thay đổi tốc độ đọc
 
